@@ -15,4 +15,4 @@ Run the script using Python 3. A window will open with buttons for selecting fil
 
 ## Note
 
-This is a basic script created for the purpose of practicing Python. It may not include all the features of a full-fledged PDF manipulation tool.
+This is a basic script created for the purpose of practicing Python. It does not intend to include all the features of a fully-fledged PDF manipulation tool.
